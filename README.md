@@ -9,4 +9,4 @@ Day 29 of Javascript30 by WesBos. Made a site where you can set timers for 5 - 2
 HTML5, CSS, Vanilla JS
 
 # Website
-https://buigabor.github.io/video-speed-controller/
+https://buigabor.github.io/countdown-timer/
